@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:16:05.980Z" agent="5.0 (X11)" etag="PLyrNJ5ua8vya0WZK4Ej" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T20:21:00.201Z" agent="5.0 (X11)" etag="8VJA8a6ODyV67NidsdO3" version="20.8.21" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1592" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -42,6 +42,38 @@
             <Array as="points">
               <mxPoint x="720" y="330" />
               <mxPoint x="1000" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-10" value="FreeRTOS" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-11" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-10">
+          <mxGeometry x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-12" value="ros2bridge_embedded Library" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-13" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-12">
+          <mxGeometry x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-14" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNdSs4cdlRIxUrPxa4w8-5" target="wNdSs4cdlRIxUrPxa4w8-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="509.40999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="240" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-16" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="wNdSs4cdlRIxUrPxa4w8-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="240" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="640" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
