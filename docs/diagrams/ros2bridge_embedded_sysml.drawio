@@ -1,31 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T20:23:45.263Z" agent="5.0 (X11)" etag="W9eBrM0DrCAQSXEaSj2N" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T17:18:05.423Z" agent="5.0 (X11)" etag="K00xFN4L1hNynJuoypsw" version="20.8.23" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1592" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="1672d66443f91eb5-23" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-1" value="ros2bridge_embedded" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-1" value="ros2bridge_embedded" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-2" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-2" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-1" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-3" value="Desktop Computer" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-3" value="Desktop Computer" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="960" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-4" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-3">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-4" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-3" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-5" value="ESP32 board" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-5" value="ESP32 board" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-6" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-5">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-6" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-5" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-7" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNdSs4cdlRIxUrPxa4w8-1" target="wNdSs4cdlRIxUrPxa4w8-5">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-7" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wNdSs4cdlRIxUrPxa4w8-1" target="wNdSs4cdlRIxUrPxa4w8-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="750" y="370" as="sourcePoint" />
             <mxPoint x="900" y="620" as="targetPoint" />
@@ -35,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-9" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNdSs4cdlRIxUrPxa4w8-1" target="wNdSs4cdlRIxUrPxa4w8-3">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-9" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wNdSs4cdlRIxUrPxa4w8-1" target="wNdSs4cdlRIxUrPxa4w8-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="310" as="sourcePoint" />
             <mxPoint x="800" y="410" as="targetPoint" />
@@ -45,19 +42,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-10" value="FreeRTOS" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-10" value="FreeRTOS" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-11" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-10">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-11" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-10" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-12" value="ros2bridge_embedded Library" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-12" value="ros2bridge_embedded Library" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-13" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-12">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-13" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-12" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-14" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNdSs4cdlRIxUrPxa4w8-5" target="wNdSs4cdlRIxUrPxa4w8-10">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-14" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wNdSs4cdlRIxUrPxa4w8-5" target="wNdSs4cdlRIxUrPxa4w8-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="440" as="sourcePoint" />
             <mxPoint x="530" y="509.40999999999997" as="targetPoint" />
@@ -67,19 +64,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-17" value="ROS2 Framework" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-17" value="ROS2 Framework" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-18" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-17">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-18" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-17" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-19" value="ros2bridge_embedded Node" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-19" value="ros2bridge_embedded Node" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1160" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-20" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="wNdSs4cdlRIxUrPxa4w8-19">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-20" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="wNdSs4cdlRIxUrPxa4w8-19" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-21" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="wNdSs4cdlRIxUrPxa4w8-17">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-21" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="wNdSs4cdlRIxUrPxa4w8-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1040" y="420" as="sourcePoint" />
             <mxPoint x="1130" y="509.40999999999997" as="targetPoint" />
@@ -89,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-22" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="wNdSs4cdlRIxUrPxa4w8-19">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-22" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="wNdSs4cdlRIxUrPxa4w8-19" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1040" y="420" as="sourcePoint" />
             <mxPoint x="840" y="480" as="targetPoint" />
@@ -99,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNdSs4cdlRIxUrPxa4w8-23" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="wNdSs4cdlRIxUrPxa4w8-12">
+        <mxCell id="wNdSs4cdlRIxUrPxa4w8-23" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="wNdSs4cdlRIxUrPxa4w8-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="200" y="480" as="targetPoint" />
